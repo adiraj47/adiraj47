@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I working current on this: 👋
 
 <!--
 **adiraj47/adiraj47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...machine learning 
 - 💬 Ask me about ...python, c++, html, css,java
 - 📫 How to reach me: ...[likden](https://www.linkedin.com/in/aditya-rajpurohit-07a230200/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... Be the best 
