@@ -21,7 +21,3 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api?username=adiraj47&count_private=true">
   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adiraj47&hide=css,js,html&theme=tokyonight"> -->
 </p>
-
-
-
-<details> 
