@@ -1,4 +1,4 @@
-### Hi there I am currenty working on the following: 👋
+### Hi there I am currently working on the following project: 👋
 
 
 
