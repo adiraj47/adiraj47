@@ -1,4 +1,4 @@
-### Hi there I working current on this: 👋
+### Hi there I am currenty working on the following: 👋
 
 
 
